@@ -1,0 +1,8 @@
+# Syntax Coloring Map For RobotClass LiquidCrystal I2C
+
+# Datatypes (KEYWORD1)
+RobotClass_LiquidCrystal_I2C	KEYWORD1
+
+# Constants (LITERAL1)
+CP_UTF8	LITERAL1
+CP_CP1251	LITERAL1
